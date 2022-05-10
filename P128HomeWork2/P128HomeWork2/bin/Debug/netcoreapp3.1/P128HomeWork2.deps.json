@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "P128HomeWork2/1.0.0": {
+        "runtime": {
+          "P128HomeWork2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P128HomeWork2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

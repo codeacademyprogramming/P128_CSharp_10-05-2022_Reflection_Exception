@@ -1,0 +1,14 @@
+C:\Users\hamid.mammadov\Desktop\P128HomeWork2\P128HomeWork2\bin\Debug\netcoreapp3.1\P128HomeWork2.exe
+C:\Users\hamid.mammadov\Desktop\P128HomeWork2\P128HomeWork2\bin\Debug\netcoreapp3.1\P128HomeWork2.deps.json
+C:\Users\hamid.mammadov\Desktop\P128HomeWork2\P128HomeWork2\bin\Debug\netcoreapp3.1\P128HomeWork2.runtimeconfig.json
+C:\Users\hamid.mammadov\Desktop\P128HomeWork2\P128HomeWork2\bin\Debug\netcoreapp3.1\P128HomeWork2.runtimeconfig.dev.json
+C:\Users\hamid.mammadov\Desktop\P128HomeWork2\P128HomeWork2\bin\Debug\netcoreapp3.1\P128HomeWork2.dll
+C:\Users\hamid.mammadov\Desktop\P128HomeWork2\P128HomeWork2\bin\Debug\netcoreapp3.1\P128HomeWork2.pdb
+C:\Users\hamid.mammadov\Desktop\P128HomeWork2\P128HomeWork2\obj\Debug\netcoreapp3.1\P128HomeWork2.csproj.AssemblyReference.cache
+C:\Users\hamid.mammadov\Desktop\P128HomeWork2\P128HomeWork2\obj\Debug\netcoreapp3.1\P128HomeWork2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamid.mammadov\Desktop\P128HomeWork2\P128HomeWork2\obj\Debug\netcoreapp3.1\P128HomeWork2.AssemblyInfoInputs.cache
+C:\Users\hamid.mammadov\Desktop\P128HomeWork2\P128HomeWork2\obj\Debug\netcoreapp3.1\P128HomeWork2.AssemblyInfo.cs
+C:\Users\hamid.mammadov\Desktop\P128HomeWork2\P128HomeWork2\obj\Debug\netcoreapp3.1\P128HomeWork2.csproj.CoreCompileInputs.cache
+C:\Users\hamid.mammadov\Desktop\P128HomeWork2\P128HomeWork2\obj\Debug\netcoreapp3.1\P128HomeWork2.dll
+C:\Users\hamid.mammadov\Desktop\P128HomeWork2\P128HomeWork2\obj\Debug\netcoreapp3.1\P128HomeWork2.pdb
+C:\Users\hamid.mammadov\Desktop\P128HomeWork2\P128HomeWork2\obj\Debug\netcoreapp3.1\P128HomeWork2.genruntimeconfig.cache

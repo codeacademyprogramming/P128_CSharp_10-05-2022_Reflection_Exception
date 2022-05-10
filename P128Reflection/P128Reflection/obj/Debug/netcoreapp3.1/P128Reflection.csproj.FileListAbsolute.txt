@@ -1,0 +1,14 @@
+C:\Users\hamid.mammadov\Desktop\P128Reflection\P128Reflection\bin\Debug\netcoreapp3.1\P128Reflection.exe
+C:\Users\hamid.mammadov\Desktop\P128Reflection\P128Reflection\bin\Debug\netcoreapp3.1\P128Reflection.deps.json
+C:\Users\hamid.mammadov\Desktop\P128Reflection\P128Reflection\bin\Debug\netcoreapp3.1\P128Reflection.runtimeconfig.json
+C:\Users\hamid.mammadov\Desktop\P128Reflection\P128Reflection\bin\Debug\netcoreapp3.1\P128Reflection.runtimeconfig.dev.json
+C:\Users\hamid.mammadov\Desktop\P128Reflection\P128Reflection\bin\Debug\netcoreapp3.1\P128Reflection.dll
+C:\Users\hamid.mammadov\Desktop\P128Reflection\P128Reflection\bin\Debug\netcoreapp3.1\P128Reflection.pdb
+C:\Users\hamid.mammadov\Desktop\P128Reflection\P128Reflection\obj\Debug\netcoreapp3.1\P128Reflection.csproj.AssemblyReference.cache
+C:\Users\hamid.mammadov\Desktop\P128Reflection\P128Reflection\obj\Debug\netcoreapp3.1\P128Reflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamid.mammadov\Desktop\P128Reflection\P128Reflection\obj\Debug\netcoreapp3.1\P128Reflection.AssemblyInfoInputs.cache
+C:\Users\hamid.mammadov\Desktop\P128Reflection\P128Reflection\obj\Debug\netcoreapp3.1\P128Reflection.AssemblyInfo.cs
+C:\Users\hamid.mammadov\Desktop\P128Reflection\P128Reflection\obj\Debug\netcoreapp3.1\P128Reflection.csproj.CoreCompileInputs.cache
+C:\Users\hamid.mammadov\Desktop\P128Reflection\P128Reflection\obj\Debug\netcoreapp3.1\P128Reflection.dll
+C:\Users\hamid.mammadov\Desktop\P128Reflection\P128Reflection\obj\Debug\netcoreapp3.1\P128Reflection.pdb
+C:\Users\hamid.mammadov\Desktop\P128Reflection\P128Reflection\obj\Debug\netcoreapp3.1\P128Reflection.genruntimeconfig.cache
